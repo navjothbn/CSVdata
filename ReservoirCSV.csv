@@ -1,103 +1,103 @@
-OBJECTID,LOCATION,NAME,PUMPTYPE,CAPACITY,RES_TYPE,WARDNO,State,U_ID,District,City_Name,Cost_Value
-"1","MVP COLONY,SEC-6","MVP COLONY,SEC-6",GRAVITY,"1000",GLSR,"6",Andhra Pradesh,"1",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"2","MVP COLONY,SEC-9","MVP COLONY,SEC-9",GRAVITY,"500",GLSR,"6",Andhra Pradesh,"2",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"3","DOCTORS COLONY,PEDA WALTAIR","DOCTORS COLONY,PEDA WALTAIR",BOTH,"2000",GLSR,"16",Andhra Pradesh,"3",Vishakhapattanam,Vishakhapattanam,180000.00000000000
-"4","MVP COLONY,SEC-6","MVP COLONY,SEC-6",PUMPING,"200",GLSR,"6",Andhra Pradesh,"4",Vishakhapattanam,Vishakhapattanam,18000.00000000000
-"5",SIMHADRIPURAM,SIMHADRIPURAM,GRAVITY,"200",GLSR,"9",Andhra Pradesh,"5",Vishakhapattanam,Vishakhapattanam,18000.00000000000
-"6",A.S.R NAGAR,A.S.R NAGAR,GRAVITY,"500",GLSR,"9",Andhra Pradesh,"6",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"7",H.B.COLONY,DURGANAGAR RESERVOIR,PUMPING,"25",GLSR,"9",Andhra Pradesh,"7",Vishakhapattanam,Vishakhapattanam,2250.00000000000
-"8",H.B. COLONY,BLOCK-8 RESRVOIR,GRAVITY,"500",GLSR,"9",Andhra Pradesh,"8",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"9",NEW VENKOJIPALEM,NEW VENKOJIPALEM RESERVOIR,,"500",GLSR,"9",Andhra Pradesh,"9",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"10",NEW VENKOJIPALEM,NEW VENKOJIPALEM RESERVOIR,PUMPING,"125",GLSR,"9",Andhra Pradesh,"10",Vishakhapattanam,Vishakhapattanam,11250.00000000000
-"11",SEETAMMADHARA,OLD BLOCK-6 RESERVOIR,GRAVITY,"1670",GLSR,"11",Andhra Pradesh,"11",Vishakhapattanam,Vishakhapattanam,150300.00000000000
-"12",SEETAMMADHARA,NEW BLOCK-9 RESERVOIR,GRAVITY,"800",GLSR,"11",Andhra Pradesh,"12",Vishakhapattanam,Vishakhapattanam,72000.00000000000
-"13",SEETAMMADHARA,SEETAMMADHARA PUMPING STATION,PUMPING,"250",,"11",Andhra Pradesh,"13",Vishakhapattanam,Vishakhapattanam,22500.00000000000
-"14",SEETAMMADHARA,SEETAMMADHARA PUMPING STATION,PUMPING,"75",,"11",Andhra Pradesh,"14",Vishakhapattanam,Vishakhapattanam,6750.00000000000
-"15",GURUDWARA JENCTION,OLD BLOCK RESERVOIR GURUDWARA JN,GRAVITY,"670",GLSR,"11",Andhra Pradesh,"15",Vishakhapattanam,Vishakhapattanam,60300.00000000000
-"16",GREEN PARK COLONY,BLOCK-10 RESERVOIR,,"1800",GLSR,"11",Andhra Pradesh,"16",Vishakhapattanam,Vishakhapattanam,162000.00000000000
-"17",,NEW CONSTRECTION SUMP AT BOOSTER PUMP HOUSE,PUMPING,"200",,"12",Andhra Pradesh,"17",Vishakhapattanam,Vishakhapattanam,18000.00000000000
-"18",SEETAMMAPETA,SEETAMMAPETA WIPRO SITE SUMP,PUMPING,"500",GLSR,"14",Andhra Pradesh,"18",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"19",NARASIMHA NAGAR,GANESH NAGAR (P.W.S),,"200",ELSR,"34",Andhra Pradesh,"19",Vishakhapattanam,Vishakhapattanam,18000.00000000000
-"20",GANESH NAGAR,GANESH NAGAR HILL RESERVOIR (NEW),,"1000",GLSR,"34",Andhra Pradesh,"20",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"21",ARILOVA,ARILOVA SECTOR-5,,"500",ELSR,"1",Andhra Pradesh,"21",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"22",ARILOVA,ARILOVA SECTOR-3,,"300",GLSR,"2",Andhra Pradesh,"22",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"23",OLD ARILOVA,OLD ARILOVA,PUMPING,"700",ELSR,"2",Andhra Pradesh,"23",Vishakhapattanam,Vishakhapattanam,63000.00000000000
-"24",,,,"1500",GLSR,"62",Andhra Pradesh,"24",Vishakhapattanam,Vishakhapattanam,135000.00000000000
-"25",,,,"1000",GLSR,"3",Andhra Pradesh,"25",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"26",,,,"700",GLSR,"2",Andhra Pradesh,"26",Vishakhapattanam,Vishakhapattanam,63000.00000000000
-"27",,,,"1000",GLSR,"3",Andhra Pradesh,"27",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"28",SAGAR NAGAR,SAGAR NAGAR,,"350",ELSR,"6",Andhra Pradesh,"28",Vishakhapattanam,Vishakhapattanam,31500.00000000000
-"29",CIRCUIT HOUSE RESERVOIR,CIRCUIT HOUSE RESERVOIR NEW,GRAVITY,"4500",GLSR,"19",Andhra Pradesh,"29",Vishakhapattanam,Vishakhapattanam,405000.00000000000
-"30",HLR premises back side of comissioner bunglow,HLR PREMISES BACK SIDE OF COMISSIONER BUNGLOW,,"2500",ELSR-GLSR,"19",Andhra Pradesh,"30",Vishakhapattanam,Vishakhapattanam,225000.00000000000
-"31",,,,"0",ELSR,"58",Andhra Pradesh,"31",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"32",,,,"0",ELSR,"58",Andhra Pradesh,"32",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"33",,,,"1500",GLSR,"61",Andhra Pradesh,"33",Vishakhapattanam,Vishakhapattanam,135000.00000000000
-"34",,,,"0",PUMP HOUSE,"52",Andhra Pradesh,"34",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"35",,,,"0",PUMP HOUSE,"61",Andhra Pradesh,"35",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"36",,,,"1500",GLSR,"62",Andhra Pradesh,"36",Vishakhapattanam,Vishakhapattanam,135000.00000000000
-"37",,,,"750",,"64",Andhra Pradesh,"37",Vishakhapattanam,Vishakhapattanam,67500.00000000000
-"38",,,,"750",,"64",Andhra Pradesh,"38",Vishakhapattanam,Vishakhapattanam,67500.00000000000
-"39",,,,"70",ELSR,"65",Andhra Pradesh,"39",Vishakhapattanam,Vishakhapattanam,6300.00000000000
-"40",,,,"4546",PUMP HOUSE,"65",Andhra Pradesh,"40",Vishakhapattanam,Vishakhapattanam,409140.00000000000
-"41",,,,"0",ELSR,"65",Andhra Pradesh,"41",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"42",,,,"500",GLSR,"34",Andhra Pradesh,"42",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"43",Ajaykallam nagar,AJAYKALLAM NAGAR,,"500",GLSR,"38",Andhra Pradesh,"43",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"44",Vuda Colony,VUDA COLONY,,"300",PUMP HOUSE-GLSR,"47",Andhra Pradesh,"44",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"45",Zone-1,ZONE-1,,"800",ELSR,"47",Andhra Pradesh,"45",Vishakhapattanam,Vishakhapattanam,72000.00000000000
-"46",Mulagada,MULAGADA,PUMPING,"300",PUMP HOUSE-GLSR,"47",Andhra Pradesh,"46",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"47",Ex Serviceman Colony,EX SERVICEMAN COLONY,,"150",GLSR,"47",Andhra Pradesh,"47",Vishakhapattanam,Vishakhapattanam,13500.00000000000
-"48",New-Exserviceman Colony,NEW-EXSERVICEMAN COLONY,,"300",GLSR,"47",Andhra Pradesh,"48",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"49",Indira Colony-2,INDIRA COLONY-2,,"300",GLSR,"48",Andhra Pradesh,"49",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"50",,,,"0",PUMP HOUSE,"48",Andhra Pradesh,"50",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"51",,,,"0",,"48",Andhra Pradesh,"51",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"52",Industrial Colony,INDUSTRIAL COLONY,,"800",ELSR,"48",Andhra Pradesh,"52",Vishakhapattanam,Vishakhapattanam,72000.00000000000
-"53",Janatha Colony,JANATHA COLONY,,"300",GLSR,"48",Andhra Pradesh,"53",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"54",,,,"0",GLSR,"45",Andhra Pradesh,"54",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"55",,,,"0",,"45",Andhra Pradesh,"55",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"56",Durga Nagar,DURGA NAGAR,,"300",ELSR,"49",Andhra Pradesh,"56",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"57",Kakarlova,KAKARLOVA,,"300",GLSR,"49",Andhra Pradesh,"57",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"58",Jai Andhra Colony,JAI ANDHRA COLONY,,"300",GLSR,"49",Andhra Pradesh,"58",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"59",A.U.Outgate,A.U.OUTGATE,,"500",ELSR,"18",Andhra Pradesh,"59",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"60",CHILAKA PETA,CHILAKA PETA,GRAVITY,"1500",ELSR,"26",Andhra Pradesh,"60",Vishakhapattanam,Vishakhapattanam,135000.00000000000
-"61",,,,"0",PUMP HOUSE,"26",Andhra Pradesh,"61",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"62",KODIPANDALU VEEDI,KODIPANDALU VEEDI,GRAVITY,"60",ELSR,"23",Andhra Pradesh,"62",Vishakhapattanam,Vishakhapattanam,5400.00000000000
-"63",A.V.N. COLLAGE,A.V.N. NEW TANK,GRAVITY,"1500",ELSR,"23",Andhra Pradesh,"63",Vishakhapattanam,Vishakhapattanam,135000.00000000000
-"64",A.V.N.COLLAGE,A.V.N. OLD TANK,GRAVITY,"1150",ELSR,"23",Andhra Pradesh,"64",Vishakhapattanam,Vishakhapattanam,103500.00000000000
-"65",SATYANARAYANA TEMPLE,SATYANARAYANA TEMPLE,GRAVITY,"115",GLSR,"23",Andhra Pradesh,"65",Vishakhapattanam,Vishakhapattanam,10350.00000000000
-"66",CHOUTRY,CHOUTRY PUMP HOUSE,PUMPING,"150",ELSR,"21",Andhra Pradesh,"66",Vishakhapattanam,Vishakhapattanam,13500.00000000000
-"67",Rajarammohan Rai Road,DYKES TANK,GRAVITY,"1000",ELSR,"26",Andhra Pradesh,"67",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"68",CIRCUIT HOUSE,CIRCUIT HOUSE RESERVOIR,GRAVITY,"4500",GLSR,"19",Andhra Pradesh,"68",Vishakhapattanam,Vishakhapattanam,405000.00000000000
-"69",DASAPALLA HILLS,DASAPALLA HILLS RESERVOIR,,"1000",GLSR,"19",Andhra Pradesh,"69",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"70",,,,"0",,"19",Andhra Pradesh,"70",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"71",,,,"0",,"28",Andhra Pradesh,"71",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"72",T.S.R COMPLEX,VENKATESWARA METTA RESERVOIR,,"6000",ELSR,"27",Andhra Pradesh,"72",Vishakhapattanam,Vishakhapattanam,540000.00000000000
-"73",HLR premises back side of comissioner bunglow,HLR PREMISES BACK SIDE OF COMISSIONER BUNGLOW,,"360",ELSR-GLSR,"19",Andhra Pradesh,"73",Vishakhapattanam,Vishakhapattanam,32400.00000000000
-"74",Resavanipalem Block-7,RESAVANIPALEM BLOCK-7,,"2000",GLSR,"16",Andhra Pradesh,"74",Vishakhapattanam,Vishakhapattanam,180000.00000000000
-"75",,,,"0",,"9",Andhra Pradesh,"75",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"76",,,,"0",,"11",Andhra Pradesh,"76",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"77",Thatichattla palem,THATICHATTLA PALEM,,"1000",ELSR,"34",Andhra Pradesh,"77",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"78",Tikkavani palem,TIKKAVANI PALEM,,"400",GLSR,"35",Andhra Pradesh,"78",Vishakhapattanam,Vishakhapattanam,36000.00000000000
-"79",Ramjee estate (sweepers colony),RAMJEE ESTATE (SWEEPERS COLONY),,"450",GLSR,"35",Andhra Pradesh,"79",Vishakhapattanam,Vishakhapattanam,40500.00000000000
-"80",Ramjee estate,RAMJEE ESTATE,,"300",GLSR,"35",Andhra Pradesh,"80",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"81",Bhapujinagar,BHAPUJINAGAR,,"100",GLSR,"37",Andhra Pradesh,"81",Vishakhapattanam,Vishakhapattanam,9000.00000000000
-"82",Indira nagar,INDIRA NAGAR,,"300",GLSR,"37",Andhra Pradesh,"82",Vishakhapattanam,Vishakhapattanam,27000.00000000000
-"83",Burmacamp,BURMACAMP,,"2270",GLSR,"38",Andhra Pradesh,"83",Vishakhapattanam,Vishakhapattanam,204300.00000000000
-"84",Srinivasa nagar,SRINIVASA NAGAR,,"450",GLSR,"37",Andhra Pradesh,"84",Vishakhapattanam,Vishakhapattanam,40500.00000000000
-"85",NGGOS Colony,NGGOS COLONY,,"600",GLSR,"38",Andhra Pradesh,"85",Vishakhapattanam,Vishakhapattanam,54000.00000000000
-"86",Murali nagar,MURALI NAGAR,,"900",GLSR,"38",Andhra Pradesh,"86",Vishakhapattanam,Vishakhapattanam,81000.00000000000
-"87",Near panjabi hotel jecton,NEAR PANJABI HOTEL JECTON,,"1080",GLSR,"39",Andhra Pradesh,"87",Vishakhapattanam,Vishakhapattanam,97200.00000000000
-"88",Andhrapraba press,ANDHRAPRABA PRESS,,"1000",GLSR,"39",Andhra Pradesh,"88",Vishakhapattanam,Vishakhapattanam,90000.00000000000
-"89",Madhvadara Vuda Layout,MADHVADARA VUDA LAYOUT,,"225",ELSR,"39",Andhra Pradesh,"89",Vishakhapattanam,Vishakhapattanam,20250.00000000000
-"90",Near R&B Office,NEAR R&B OFFICE,,"700",GLSR,"39",Andhra Pradesh,"90",Vishakhapattanam,Vishakhapattanam,63000.00000000000
-"91",,,,"0",PWS,"39",Andhra Pradesh,"91",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"92",,,,"0",PWS,"67",Andhra Pradesh,"92",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"93",Marripalem Vuda Layout,MARRIPALEM VUDA LAYOUT,,"500",ELSR,"42",Andhra Pradesh,"93",Vishakhapattanam,Vishakhapattanam,45000.00000000000
-"94",Marripalem Vuda Layout,MARRIPALEM VUDA LAYOUT,,"225",GLSR,"42",Andhra Pradesh,"94",Vishakhapattanam,Vishakhapattanam,20250.00000000000
-"95",,,,"0",PWS,"67",Andhra Pradesh,"95",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"96",,,,"0",WELL,"67",Andhra Pradesh,"96",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"97",,,,"0",PWS,"67",Andhra Pradesh,"97",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"98",,,,"0",WELL,"67",Andhra Pradesh,"98",Vishakhapattanam,Vishakhapattanam,0.00000000000
-"99",Near Gopalapatnam,,,"160",GLSR,"67",Andhra Pradesh,"99",Vishakhapattanam,Vishakhapattanam,14400.00000000000
-"100",Near Baji Jenction,NEAR BAJI JENCTION,,"50",GLSR,"67",Andhra Pradesh,"100",Vishakhapattanam,Vishakhapattanam,4500.00000000000
-"101",APSEB Colony,APSEB COLONY,,"700",GLSR,"67",Andhra Pradesh,"101",Vishakhapattanam,Vishakhapattanam,63000.00000000000
-"102",Buchirajpalem,BUCHIRAJPALEM,,"1080",GLSR,"67",Andhra Pradesh,"102",Vishakhapattanam,Vishakhapattanam,97200.00000000000
+OBJECTID,LOCATION,NAME,PUMPTYPE,CAPACITY,RES_TYPE,WARDNO,State,U_ID,District,City_Name,Cost_Value,Latitude,Longitude
+"1","MVP COLONY,SEC-6","MVP COLONY,SEC-6",GRAVITY,"1000",GLSR,"6",Andhra Pradesh,"1",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1963868.0498,"747470"
+"2","MVP COLONY,SEC-9","MVP COLONY,SEC-9",GRAVITY,"500",GLSR,"6",Andhra Pradesh,"2",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963746.478,"748111"
+"3","DOCTORS COLONY,PEDA WALTAIR","DOCTORS COLONY,PEDA WALTAIR",BOTH,"2000",GLSR,"16",Andhra Pradesh,"3",Vishakhapattanam,Vishakhapattanam,180000.00000000000,1962060.2296,"747050"
+"4","MVP COLONY,SEC-6","MVP COLONY,SEC-6",PUMPING,"200",GLSR,"6",Andhra Pradesh,"4",Vishakhapattanam,Vishakhapattanam,18000.00000000000,1963831.4237,"747463"
+"5",SIMHADRIPURAM,SIMHADRIPURAM,GRAVITY,"200",GLSR,"9",Andhra Pradesh,"5",Vishakhapattanam,Vishakhapattanam,18000.00000000000,1963906.5873,"746201"
+"6",A.S.R NAGAR,A.S.R NAGAR,GRAVITY,"500",GLSR,"9",Andhra Pradesh,"6",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963908.032,"745331"
+"7",H.B.COLONY,DURGANAGAR RESERVOIR,PUMPING,"25",GLSR,"9",Andhra Pradesh,"7",Vishakhapattanam,Vishakhapattanam,2250.00000000000,1964050.4583,"746643"
+"8",H.B. COLONY,BLOCK-8 RESRVOIR,GRAVITY,"500",GLSR,"9",Andhra Pradesh,"8",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963700.5505,"746463"
+"9",NEW VENKOJIPALEM,NEW VENKOJIPALEM RESERVOIR,,"500",GLSR,"9",Andhra Pradesh,"9",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963841.0662,"746901"
+"10",NEW VENKOJIPALEM,NEW VENKOJIPALEM RESERVOIR,PUMPING,"125",GLSR,"9",Andhra Pradesh,"10",Vishakhapattanam,Vishakhapattanam,11250.00000000000,1963835.1169,"746892"
+"11",SEETAMMADHARA,OLD BLOCK-6 RESERVOIR,GRAVITY,"1670",GLSR,"11",Andhra Pradesh,"11",Vishakhapattanam,Vishakhapattanam,150300.00000000000,1963657.6373,"744688"
+"12",SEETAMMADHARA,NEW BLOCK-9 RESERVOIR,GRAVITY,"800",GLSR,"11",Andhra Pradesh,"12",Vishakhapattanam,Vishakhapattanam,72000.00000000000,1963645.1208,"744661"
+"13",SEETAMMADHARA,SEETAMMADHARA PUMPING STATION,PUMPING,"250",,"11",Andhra Pradesh,"13",Vishakhapattanam,Vishakhapattanam,22500.00000000000,1962622.2588,"745260"
+"14",SEETAMMADHARA,SEETAMMADHARA PUMPING STATION,PUMPING,"75",,"11",Andhra Pradesh,"14",Vishakhapattanam,Vishakhapattanam,6750.00000000000,1962622.3683,"745249"
+"15",GURUDWARA JENCTION,OLD BLOCK RESERVOIR GURUDWARA JN,GRAVITY,"670",GLSR,"11",Andhra Pradesh,"15",Vishakhapattanam,Vishakhapattanam,60300.00000000000,1962714.3642,"744876"
+"16",GREEN PARK COLONY,BLOCK-10 RESERVOIR,,"1800",GLSR,"11",Andhra Pradesh,"16",Vishakhapattanam,Vishakhapattanam,162000.00000000000,1962913.2592,"744211"
+"17",,NEW CONSTRECTION SUMP AT BOOSTER PUMP HOUSE,PUMPING,"200",,"12",Andhra Pradesh,"17",Vishakhapattanam,Vishakhapattanam,18000.00000000000,1962943.3146,"744043"
+"18",SEETAMMAPETA,SEETAMMAPETA WIPRO SITE SUMP,PUMPING,"500",GLSR,"14",Andhra Pradesh,"18",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1962272.5417,"745053"
+"19",NARASIMHA NAGAR,GANESH NAGAR (P.W.S),,"200",ELSR,"34",Andhra Pradesh,"19",Vishakhapattanam,Vishakhapattanam,18000.00000000000,1963640.4408,"743647"
+"20",GANESH NAGAR,GANESH NAGAR HILL RESERVOIR (NEW),,"1000",GLSR,"34",Andhra Pradesh,"20",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1963501.4193,"743415"
+"21",ARILOVA,ARILOVA SECTOR-5,,"500",ELSR,"1",Andhra Pradesh,"21",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1966331.481,"744497"
+"22",ARILOVA,ARILOVA SECTOR-3,,"300",GLSR,"2",Andhra Pradesh,"22",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1966253.884,"745569"
+"23",OLD ARILOVA,OLD ARILOVA,PUMPING,"700",ELSR,"2",Andhra Pradesh,"23",Vishakhapattanam,Vishakhapattanam,63000.00000000000,1965868.5883,"745660"
+"24",,,,"1500",GLSR,"62",Andhra Pradesh,"24",Vishakhapattanam,Vishakhapattanam,135000.00000000000,1955513.5801,"734102"
+"25",,,,"1000",GLSR,"3",Andhra Pradesh,"25",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1964855.0751,"746216"
+"26",,,,"700",GLSR,"2",Andhra Pradesh,"26",Vishakhapattanam,Vishakhapattanam,63000.00000000000,1965623.3121,"745787"
+"27",,,,"1000",GLSR,"3",Andhra Pradesh,"27",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1965923.9475,"746598"
+"28",SAGAR NAGAR,SAGAR NAGAR,,"350",ELSR,"6",Andhra Pradesh,"28",Vishakhapattanam,Vishakhapattanam,31500.00000000000,1966005.1884,"749889"
+"29",CIRCUIT HOUSE RESERVOIR,CIRCUIT HOUSE RESERVOIR NEW,GRAVITY,"4500",GLSR,"19",Andhra Pradesh,"29",Vishakhapattanam,Vishakhapattanam,405000.00000000000,1960428.9541,"745073"
+"30",HLR premises back side of comissioner bunglow,HLR PREMISES BACK SIDE OF COMISSIONER BUNGLOW,,"2500",ELSR-GLSR,"19",Andhra Pradesh,"30",Vishakhapattanam,Vishakhapattanam,225000.00000000000,1961161.8004,"745534"
+"31",,,,"0",ELSR,"58",Andhra Pradesh,"31",Vishakhapattanam,Vishakhapattanam,0.00000000000,1957673.1289,"728538"
+"32",,,,"0",ELSR,"58",Andhra Pradesh,"32",Vishakhapattanam,Vishakhapattanam,0.00000000000,1957952.3592,"730580"
+"33",,,,"1500",GLSR,"61",Andhra Pradesh,"33",Vishakhapattanam,Vishakhapattanam,135000.00000000000,1955973.7844,"731847"
+"34",,,,"0",PUMP HOUSE,"52",Andhra Pradesh,"34",Vishakhapattanam,Vishakhapattanam,0.00000000000,1955507.0957,"733224"
+"35",,,,"0",PUMP HOUSE,"61",Andhra Pradesh,"35",Vishakhapattanam,Vishakhapattanam,0.00000000000,1955922.3387,"733900"
+"36",,,,"1500",GLSR,"62",Andhra Pradesh,"36",Vishakhapattanam,Vishakhapattanam,135000.00000000000,1955465.0487,"734167"
+"37",,,,"750",,"64",Andhra Pradesh,"37",Vishakhapattanam,Vishakhapattanam,67500.00000000000,1957307.6845,"734496"
+"38",,,,"750",,"64",Andhra Pradesh,"38",Vishakhapattanam,Vishakhapattanam,67500.00000000000,1957316.4462,"734487"
+"39",,,,"70",ELSR,"65",Andhra Pradesh,"39",Vishakhapattanam,Vishakhapattanam,6300.00000000000,1958512.9427,"734996"
+"40",,,,"4546",PUMP HOUSE,"65",Andhra Pradesh,"40",Vishakhapattanam,Vishakhapattanam,409140.00000000000,1960280.615,"733697"
+"41",,,,"0",ELSR,"65",Andhra Pradesh,"41",Vishakhapattanam,Vishakhapattanam,0.00000000000,1960358.0849,"732954"
+"42",,,,"500",GLSR,"34",Andhra Pradesh,"42",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963355.7234,"742907"
+"43",Ajaykallam nagar,AJAYKALLAM NAGAR,,"500",GLSR,"38",Andhra Pradesh,"43",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963971.238,"740738"
+"44",Vuda Colony,VUDA COLONY,,"300",PUMP HOUSE-GLSR,"47",Andhra Pradesh,"44",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1957227.4515,"736795"
+"45",Zone-1,ZONE-1,,"800",ELSR,"47",Andhra Pradesh,"45",Vishakhapattanam,Vishakhapattanam,72000.00000000000,1957256.5288,"735949"
+"46",Mulagada,MULAGADA,PUMPING,"300",PUMP HOUSE-GLSR,"47",Andhra Pradesh,"46",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1957084.403,"735871"
+"47",Ex Serviceman Colony,EX SERVICEMAN COLONY,,"150",GLSR,"47",Andhra Pradesh,"47",Vishakhapattanam,Vishakhapattanam,13500.00000000000,1956798.8525,"736112"
+"48",New-Exserviceman Colony,NEW-EXSERVICEMAN COLONY,,"300",GLSR,"47",Andhra Pradesh,"48",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956724.4834,"736643"
+"49",Indira Colony-2,INDIRA COLONY-2,,"300",GLSR,"48",Andhra Pradesh,"49",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956494.5799,"737105"
+"50",,,,"0",PUMP HOUSE,"48",Andhra Pradesh,"50",Vishakhapattanam,Vishakhapattanam,0.00000000000,1957151.2302,"737735"
+"51",,,,"0",,"48",Andhra Pradesh,"51",Vishakhapattanam,Vishakhapattanam,0.00000000000,1956633.5948,"737735"
+"52",Industrial Colony,INDUSTRIAL COLONY,,"800",ELSR,"48",Andhra Pradesh,"52",Vishakhapattanam,Vishakhapattanam,72000.00000000000,1956616.4467,"737704"
+"53",Janatha Colony,JANATHA COLONY,,"300",GLSR,"48",Andhra Pradesh,"53",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956254.5247,"737566"
+"54",,,,"0",GLSR,"45",Andhra Pradesh,"54",Vishakhapattanam,Vishakhapattanam,0.00000000000,1957101.2114,"739236"
+"55",,,,"0",,"45",Andhra Pradesh,"55",Vishakhapattanam,Vishakhapattanam,0.00000000000,1956979.1129,"739610"
+"56",Durga Nagar,DURGA NAGAR,,"300",ELSR,"49",Andhra Pradesh,"56",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956444.3398,"739293"
+"57",Kakarlova,KAKARLOVA,,"300",GLSR,"49",Andhra Pradesh,"57",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956529.3622,"739531"
+"58",Jai Andhra Colony,JAI ANDHRA COLONY,,"300",GLSR,"49",Andhra Pradesh,"58",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1956457.9333,"740008"
+"59",A.U.Outgate,A.U.OUTGATE,,"500",ELSR,"18",Andhra Pradesh,"59",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1960935.4915,"746907"
+"60",CHILAKA PETA,CHILAKA PETA,GRAVITY,"1500",ELSR,"26",Andhra Pradesh,"60",Vishakhapattanam,Vishakhapattanam,135000.00000000000,1958609.1802,"743337"
+"61",,,,"0",PUMP HOUSE,"26",Andhra Pradesh,"61",Vishakhapattanam,Vishakhapattanam,0.00000000000,1958605.4443,"743225"
+"62",KODIPANDALU VEEDI,KODIPANDALU VEEDI,GRAVITY,"60",ELSR,"23",Andhra Pradesh,"62",Vishakhapattanam,Vishakhapattanam,5400.00000000000,1959085.9142,"744297"
+"63",A.V.N. COLLAGE,A.V.N. NEW TANK,GRAVITY,"1500",ELSR,"23",Andhra Pradesh,"63",Vishakhapattanam,Vishakhapattanam,135000.00000000000,1958952.7406,"744330"
+"64",A.V.N.COLLAGE,A.V.N. OLD TANK,GRAVITY,"1150",ELSR,"23",Andhra Pradesh,"64",Vishakhapattanam,Vishakhapattanam,103500.00000000000,1958926.9747,"744303"
+"65",SATYANARAYANA TEMPLE,SATYANARAYANA TEMPLE,GRAVITY,"115",GLSR,"23",Andhra Pradesh,"65",Vishakhapattanam,Vishakhapattanam,10350.00000000000,1959107.3418,"744001"
+"66",CHOUTRY,CHOUTRY PUMP HOUSE,PUMPING,"150",ELSR,"21",Andhra Pradesh,"66",Vishakhapattanam,Vishakhapattanam,13500.00000000000,1959441.66,"743999"
+"67",Rajarammohan Rai Road,DYKES TANK,GRAVITY,"1000",ELSR,"26",Andhra Pradesh,"67",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1959515.6657,"743795"
+"68",CIRCUIT HOUSE,CIRCUIT HOUSE RESERVOIR,GRAVITY,"4500",GLSR,"19",Andhra Pradesh,"68",Vishakhapattanam,Vishakhapattanam,405000.00000000000,1960231.1001,"744947"
+"69",DASAPALLA HILLS,DASAPALLA HILLS RESERVOIR,,"1000",GLSR,"19",Andhra Pradesh,"69",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1960501.2957,"745346"
+"70",,,,"0",,"19",Andhra Pradesh,"70",Vishakhapattanam,Vishakhapattanam,0.00000000000,1960589.9636,"745321"
+"71",,,,"0",,"28",Andhra Pradesh,"71",Vishakhapattanam,Vishakhapattanam,0.00000000000,1960403.2058,"743792"
+"72",T.S.R COMPLEX,VENKATESWARA METTA RESERVOIR,,"6000",ELSR,"27",Andhra Pradesh,"72",Vishakhapattanam,Vishakhapattanam,540000.00000000000,1961206.1964,"744447"
+"73",HLR premises back side of comissioner bunglow,HLR PREMISES BACK SIDE OF COMISSIONER BUNGLOW,,"360",ELSR-GLSR,"19",Andhra Pradesh,"73",Vishakhapattanam,Vishakhapattanam,32400.00000000000,1961161.482,"745524"
+"74",Resavanipalem Block-7,RESAVANIPALEM BLOCK-7,,"2000",GLSR,"16",Andhra Pradesh,"74",Vishakhapattanam,Vishakhapattanam,180000.00000000000,1961601.4956,"745762"
+"75",,,,"0",,"9",Andhra Pradesh,"75",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963835.3566,"746476"
+"76",,,,"0",,"11",Andhra Pradesh,"76",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963005.2837,"744234"
+"77",Thatichattla palem,THATICHATTLA PALEM,,"1000",ELSR,"34",Andhra Pradesh,"77",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1962326.8488,"742772"
+"78",Tikkavani palem,TIKKAVANI PALEM,,"400",GLSR,"35",Andhra Pradesh,"78",Vishakhapattanam,Vishakhapattanam,36000.00000000000,1962462.8071,"741925"
+"79",Ramjee estate (sweepers colony),RAMJEE ESTATE (SWEEPERS COLONY),,"450",GLSR,"35",Andhra Pradesh,"79",Vishakhapattanam,Vishakhapattanam,40500.00000000000,1963039.34,"741876"
+"80",Ramjee estate,RAMJEE ESTATE,,"300",GLSR,"35",Andhra Pradesh,"80",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1963101.5415,"741729"
+"81",Bhapujinagar,BHAPUJINAGAR,,"100",GLSR,"37",Andhra Pradesh,"81",Vishakhapattanam,Vishakhapattanam,9000.00000000000,1963125.5985,"741652"
+"82",Indira nagar,INDIRA NAGAR,,"300",GLSR,"37",Andhra Pradesh,"82",Vishakhapattanam,Vishakhapattanam,27000.00000000000,1962534.8126,"741035"
+"83",Burmacamp,BURMACAMP,,"2270",GLSR,"38",Andhra Pradesh,"83",Vishakhapattanam,Vishakhapattanam,204300.00000000000,1962782.3532,"740852"
+"84",Srinivasa nagar,SRINIVASA NAGAR,,"450",GLSR,"37",Andhra Pradesh,"84",Vishakhapattanam,Vishakhapattanam,40500.00000000000,1963013.0754,"741261"
+"85",NGGOS Colony,NGGOS COLONY,,"600",GLSR,"38",Andhra Pradesh,"85",Vishakhapattanam,Vishakhapattanam,54000.00000000000,1963638.6407,"741049"
+"86",Murali nagar,MURALI NAGAR,,"900",GLSR,"38",Andhra Pradesh,"86",Vishakhapattanam,Vishakhapattanam,81000.00000000000,1963976.8933,"739995"
+"87",Near panjabi hotel jecton,NEAR PANJABI HOTEL JECTON,,"1080",GLSR,"39",Andhra Pradesh,"87",Vishakhapattanam,Vishakhapattanam,97200.00000000000,1963393.2498,"739224"
+"88",Andhrapraba press,ANDHRAPRABA PRESS,,"1000",GLSR,"39",Andhra Pradesh,"88",Vishakhapattanam,Vishakhapattanam,90000.00000000000,1964323.7936,"739161"
+"89",Madhvadara Vuda Layout,MADHVADARA VUDA LAYOUT,,"225",ELSR,"39",Andhra Pradesh,"89",Vishakhapattanam,Vishakhapattanam,20250.00000000000,1964269.0475,"738277"
+"90",Near R&B Office,NEAR R&B OFFICE,,"700",GLSR,"39",Andhra Pradesh,"90",Vishakhapattanam,Vishakhapattanam,63000.00000000000,1963782.1667,"738463"
+"91",,,,"0",PWS,"39",Andhra Pradesh,"91",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963756.1251,"738231"
+"92",,,,"0",PWS,"67",Andhra Pradesh,"92",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963683.2216,"737972"
+"93",Marripalem Vuda Layout,MARRIPALEM VUDA LAYOUT,,"500",ELSR,"42",Andhra Pradesh,"93",Vishakhapattanam,Vishakhapattanam,45000.00000000000,1963377.7219,"738186"
+"94",Marripalem Vuda Layout,MARRIPALEM VUDA LAYOUT,,"225",GLSR,"42",Andhra Pradesh,"94",Vishakhapattanam,Vishakhapattanam,20250.00000000000,1963353.4104,"738031"
+"95",,,,"0",PWS,"67",Andhra Pradesh,"95",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963064.9286,"736743"
+"96",,,,"0",WELL,"67",Andhra Pradesh,"96",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963054.001,"736744"
+"97",,,,"0",PWS,"67",Andhra Pradesh,"97",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963088.7997,"736596"
+"98",,,,"0",WELL,"67",Andhra Pradesh,"98",Vishakhapattanam,Vishakhapattanam,0.00000000000,1963078.0236,"736602"
+"99",Near Gopalapatnam,,,"160",GLSR,"67",Andhra Pradesh,"99",Vishakhapattanam,Vishakhapattanam,14400.00000000000,1963496.825,"736223"
+"100",Near Baji Jenction,NEAR BAJI JENCTION,,"50",GLSR,"67",Andhra Pradesh,"100",Vishakhapattanam,Vishakhapattanam,4500.00000000000,1963672.0078,"736319"
+"101",APSEB Colony,APSEB COLONY,,"700",GLSR,"67",Andhra Pradesh,"101",Vishakhapattanam,Vishakhapattanam,63000.00000000000,1963808.7116,"736734"
+"102",Buchirajpalem,BUCHIRAJPALEM,,"1080",GLSR,"67",Andhra Pradesh,"102",Vishakhapattanam,Vishakhapattanam,97200.00000000000,1963486.9167,"736725"
